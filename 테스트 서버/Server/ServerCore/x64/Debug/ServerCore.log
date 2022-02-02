@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  CorePch.cpp
+LINK : fatal error LNK1104: 'C:\Users\YunTae\Desktop\겜서버 텀프\Server\Libraries\Debug\ServerCore.lib' 파일을 열 수 없습니다.
