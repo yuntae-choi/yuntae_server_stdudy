@@ -1,0 +1,18 @@
+﻿  CLIENT.cpp
+  Inven.cpp
+  Item.cpp
+  GameServer.cpp
+C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\GameServer\GameServer.cpp(17,1): warning C4005: 'UNICODE': 매크로 재정의
+C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\GameServer\pch.cpp : message : 'UNICODE'의 이전 정의를 참조하십시오.
+C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\GameServer\GameServer.cpp(145,26): warning C4244: '=': 'SQLINTEGER'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\GameServer\GameServer.cpp(146,26): warning C4244: '=': 'SQLINTEGER'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\GameServer\GameServer.cpp(205,13): warning C4101: 'p_y' :참조되지 않은 지역 변수입니다.
+C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\GameServer\GameServer.cpp(206,11): warning C4101: 'p_id' :참조되지 않은 지역 변수입니다.
+C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\GameServer\GameServer.cpp(204,13): warning C4101: 'p_x' :참조되지 않은 지역 변수입니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  2 of 590 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  GameServer.vcxproj -> C:\Users\YunTae\Desktop\과제\2021 2학기\게임서버프로그래밍\겜서버 텀프\Server\Binary\Release\GameServer.exe
